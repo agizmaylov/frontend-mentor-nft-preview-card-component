@@ -9,7 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-via-flexbox-fkPKn7erc-
-- Live Site URL: https://agizmaylov.github.io/frontend-mentor-nft-preview-card/
+- Live Site URL: https://agizmaylov.github.io/frontend-mentor-nft-preview-card-component/
 - All solutions: https://agizmaylov.github.io/frontend-mentor-solutions/
 
 ## Built with
