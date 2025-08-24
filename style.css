@@ -138,7 +138,8 @@ h2 {
     margin-top: 1.2em;
 }
 
-.nft-name__link {
+.nft-name__link,
+.credit__link {
     color: var(--color-white);
     text-decoration: none;
 
@@ -200,14 +201,3 @@ h2 {
 .credit__copy {
     margin-left: 1em;
 }
-
-.credit__link {
-    color: var(--color-white);
-    text-decoration: none;
-
-    &:hover {
-        color: hsl(var(--color-cyan-400-hsl));
-    }
-}
-
-/* . */
