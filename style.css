@@ -151,30 +151,30 @@ h2 {
     margin-top: 1em;
 }
 
-.nft-card__stats {
+.nft-stats {
     display: flex;
     align-items: center;
     margin: 1.2em 0;
 }
 
-.nft-value__icon {
+.nft-stats__value-icon {
     height: 1em;
     width: auto;
 }
 
-.nft-value__copy {
+.nft-stats__value-copy {
     margin-left: 0.4em;
     color: hsl(var(--color-cyan-400-hsl));
     font-weight: 400;
 }
 
-.countdown__icon {
+.nft-stats__countdown-icon {
     height: 1em;
     width: auto;
     margin-left: auto;
 }
 
-.countdown__copy {
+.nft-stats__countdown-copy {
     margin-left: 0.4em;
     font-size: var(--font-s);
 }
